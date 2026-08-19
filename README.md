@@ -34,16 +34,3 @@ The results indicate that model architecture had a stronger effect on held-out t
 *   The baseline CNN with basic augmentation achieved an 81.58% test accuracy[cite: 1].
 *   Applying the advanced augmentation pipeline decreased test accuracy to 90.18% for EfficientNetB0 and to 79.53% for the baseline CNN[cite: 1].
 *   The advanced augmentation pipeline also substantially increased the computational training time[cite: 1].
-
----
-
-## Installation & Setup
-
-### Prerequisites
-Because this repository contains large `.keras` model files, you must have **Git LFS** installed before cloning.
-
-1. Install Git LFS on your system (e.g., `git lfs install`).
-2. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
