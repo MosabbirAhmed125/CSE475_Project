@@ -1,0 +1,7 @@
+{
+    "test_loss": 0.5261843800544739,
+    "test_accuracy": 0.8157790899276733,
+    "weighted_f1": 0.8139424539206974,
+    "weighted_roc_auc": 0.9708857780297846,
+    "training_time_seconds": 895.3468081951141
+}
